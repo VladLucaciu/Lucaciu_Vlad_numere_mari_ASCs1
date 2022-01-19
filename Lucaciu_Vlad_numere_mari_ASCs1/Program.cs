@@ -20,7 +20,7 @@ namespace Lucaciu_Vlad_numere_mari_ASCs1
 
             static void Main(string[] args)
             {
-                Console.WriteLine("Selectati dintre optiunile: ");
+                Console.WriteLine("Selectati una din urmatoarele optiuni: ");
                 Console.WriteLine("Adunare- Aduna doua numere mari");
                 Console.WriteLine("Scadere- Scade doua numere mari");
 
